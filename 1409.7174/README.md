@@ -8,7 +8,7 @@ R. Foot and S. Vagnozzi, Dissipative hidden sector dark matter, [Phys. Rev. D91 
 
 This research was supported by:
 
-   <a href="https://unimelb.edu.au/"><img src="http://logodatabases.com/wp-content/uploads/2012/05/melbourne-university-logo.jpg"
+   <a href="https://unimelb.edu.au/"><img src="https://brandhub.unimelb.edu.au/guidelines/logos/04_Logo_Vertical-Housed.jpg"
 height="100px"></a>
    <a href="http://www.coepp.org.au/"><img src="http://www.physics.usyd.edu.au/hienergy/images/thumb/d/dc/CoEPPlogo3.jpg/200px-CoEPPlogo3.jpg"
 height="100px"></a>
