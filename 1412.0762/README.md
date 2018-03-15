@@ -1,14 +1,12 @@
-# Dissipative hidden sector dark matter
+# Diurnal modulation signal from dissipative hidden sector dark matter
 
 The files in this folder are for the paper:
 
-R. Foot and S. Vagnozzi, Dissipative hidden sector dark matter, [Phys. Rev. D91 (2015) 023512]
-(https://journals.aps.org/prd/abstract/10.1103/PhysRevD.91.023512) [Editors' Suggestion], 
-[arXiv: 1409.7174](https://arxiv.org/abs/1409.7174)
+R. Foot and S. Vagnozzi, Diurnal modulation signal from dissipative hidden sector dark matter, [Phys. Lett. B748 (2015) 61-66](https://www.sciencedirect.com/science/article/pii/S0370269315004852), [arXiv: 1412.0762](https://arxiv.org/abs/1412.0762)
 
 ## Abstract
 
-
+We consider a simple generic dissipative dark matter model: a hidden sector featuring two dark matter particles charged under an unbroken U(1)′ interaction. Previous work has shown that such a model has the potential to explain dark matter phenomena on both large and small scales. In this framework, the dark matter halo in spiral galaxies features nontrivial dynamics, with the halo energy loss due to dissipative interactions balanced by a heat source. Ordinary supernovae can potentially supply this heat provided kinetic mixing interaction exists with strength ϵ∼10−9. This type of kinetically mixed dark matter can be probed in direct detection experiments. Importantly, this self-interacting dark matter can be captured within the Earth and shield a dark matter detector from the halo wind, giving rise to a diurnal modulation effect. We estimate the size of this effect for detectors located in the Southern hemisphere, and find that the modulation is large (≳10%) for a wide range of parameters. 
 
 ************************************************************************************************
 
